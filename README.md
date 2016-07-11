@@ -7,10 +7,20 @@ or even more options in it.
 ----------------------------------------------------------------------------------
 
 These are the number of the problems answered listed as they are in Project Euler's
-page
+page:
 
 1 - Multiples of 3 and 5.	2 - Even Fibonacci numbers.	4 - Largest Palindrome
-Product.
+Product.	5. Smallest Multiple*
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------
+*: Means that need to be optimized.
 
 
 
