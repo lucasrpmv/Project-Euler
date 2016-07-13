@@ -10,8 +10,8 @@ These are the number of the problems answered listed as they are in Project Eule
 page:
 
 1 - Multiples of 3 and 5.	2 - Even Fibonacci numbers.	4 - Largest Palindrome
-Product.	5 - Smallest Multiple*.		6 - SumSquareDifference		
-8 - Largest product in a series
+Product.	5 - Smallest Multiple*.		6 - Sum Square Difference.		
+8 - Largest Product in a Series		9 - Special Pythagorean Triplet*.
 
 
 
